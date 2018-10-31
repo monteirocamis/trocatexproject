@@ -13,7 +13,11 @@ import red from "@material-ui/core/colors/red";
 import ShareIcon from "@material-ui/icons/Share";
 import PhoneIcon from "@material-ui/icons/Phone";
 import Button from "@material-ui/core/Button";
+<<<<<<< HEAD
 import TextilIcon from "../../images/textil.svg";
+=======
+import FaceIcon from "../../images/face.svg";
+>>>>>>> 54c403dc597e7455b48ba1fc14a0c5256c9b9314
 
 const styles = theme => ({
   card: {
@@ -71,7 +75,11 @@ class Profile extends React.Component {
         />
         <CardMedia
           className={classes.media}
+<<<<<<< HEAD
           image={TextilIcon}
+=======
+          image={FaceIcon}
+>>>>>>> 54c403dc597e7455b48ba1fc14a0c5256c9b9314
           title="Contemplative Reptile"
         />
         <CardContent>

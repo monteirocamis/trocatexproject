@@ -10,7 +10,11 @@ import {
 } from "@material-ui/core";
 import classNames from "classnames";
 import Profiles from "./container/profiles";
+<<<<<<< HEAD
 import Face from "./images/logo-v.1.png";
+=======
+import Face from "./images/face.svg";
+>>>>>>> 54c403dc597e7455b48ba1fc14a0c5256c9b9314
 
 const styles = theme => ({
   content: {
@@ -53,7 +57,11 @@ class App extends React.Component {
         </main>
         <footer className={classes.footer}>
           <Typography variant="h6" align="center" gutterBottom>
+<<<<<<< HEAD
             Troque tecidos online
+=======
+            About Me
+>>>>>>> 54c403dc597e7455b48ba1fc14a0c5256c9b9314
           </Typography>
           <Grid container>
             <Grid item>
