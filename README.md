@@ -3,7 +3,9 @@
 
 # trocatexproject
 We have an open source project to make a web site about exchange leftovers of textiles in Brazil.
+
 basically for now, we will have an one-page website with 1 sections about, section for profile person that have fabrics to donate and their informations,  contact section ,a simple  footer and navbar.
+
 
 We just started working on Github so make free to help us and get involved with suggestions and Issues.
 
